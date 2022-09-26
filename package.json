@@ -42,5 +42,12 @@
       "htmlLint": true
     }
   },
-  "dependencies": {}
+  "dependencies": {
+    "@octokit/core": "^4.0.5",
+    "@octokit/plugin-request-log": "^1.0.4"
+  },
+  "repository": {
+    "type": "url",
+    "url": "https://github.com/iryna-lelyk/layout_html-form.git"
+  }
 }
